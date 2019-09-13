@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  padding: 50px;
+  background-color: #88FF;
+  font-family: sans-serif;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.theList {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+.App h1 {
+  font-family: Courier;
+}
+.App h4 {
+  font-family: 'Courier New', Courier, monospace;
+}
